@@ -2,7 +2,7 @@
 languages:
 - csharp
 products:
-- dotnet-core
+- dotnet
 - ef-core
 page_type: sample
 name: "Code and notes for Entity Framework Core for Beginners video series"
